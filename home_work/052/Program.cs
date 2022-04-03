@@ -26,7 +26,7 @@ void Mean(int[,] coll)
 {
     int i = 0;
     int mean = 0;
-    int count = 1;
+    int columns = 1;
     for (int j = 0; j < coll.GetLength(1); j++)
     {
         while (i < coll.GetLength(0))
@@ -34,8 +34,8 @@ void Mean(int[,] coll)
             mean += coll[i, j];
             i++;
         }
-        Console.WriteLine($"{count} column's mean = {mean}");
-        count++;
+        Console.WriteLine($"{columns} column's mean = {mean}");
+        columns++;
         mean = 0;
         i = 0;
     }
