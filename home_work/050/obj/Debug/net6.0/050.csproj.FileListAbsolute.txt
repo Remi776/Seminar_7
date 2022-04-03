@@ -1,0 +1,15 @@
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/bin/Debug/net6.0/050
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/bin/Debug/net6.0/050.deps.json
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/bin/Debug/net6.0/050.runtimeconfig.json
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/bin/Debug/net6.0/050.dll
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/bin/Debug/net6.0/050.pdb
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.csproj.AssemblyReference.cache
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.AssemblyInfoInputs.cache
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.AssemblyInfo.cs
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.csproj.CoreCompileInputs.cache
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.dll
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/refint/050.dll
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.pdb
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/050.genruntimeconfig.cache
+/Users/bukharskyroman/Desktop/Знакомство с языками программирования /Seminar_7/home_work/050/obj/Debug/net6.0/ref/050.dll
